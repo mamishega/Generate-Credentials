@@ -21,11 +21,5 @@ To use this user management system:
 4. Run the `main.py` script.
 5. The generated email addresses and passwords will be stored in the `userpass.txt` file.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
